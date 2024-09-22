@@ -32,6 +32,11 @@ export const community_contributors: CommunityContributor[] = [
         name: "Bobbyperson",
     },
     {
+        url: "https://github.com/Caznix",
+        icon: "https://avatars.githubusercontent.com/u/131402549?v=4&s=64",
+        name: "Caznix",
+    },
+    {
         url: "https://github.com/ConnorDoesDev",
         icon: "https://avatars.githubusercontent.com/u/69979824?v=4&s=64",
         name: "ConnorDoesDev",
@@ -95,6 +100,11 @@ export const community_contributors: CommunityContributor[] = [
         url: "https://github.com/KenMizz",
         icon: "https://avatars.githubusercontent.com/u/16635884?v=4&s=64",
         name: "KenMizz",
+    },
+    {
+        url: "https://github.com/Klemmbaustein",
+        icon: "https://avatars.githubusercontent.com/u/83748124?v=4&s=64",
+        name: "Klemmbaustein",
     },
     {
         url: "https://github.com/L1ghtman2k",
@@ -192,19 +202,9 @@ export const community_contributors: CommunityContributor[] = [
         name: "TheLavaLump",
     },
     {
-        url: "https://github.com/USBDongleGoblin",
-        icon: "https://avatars.githubusercontent.com/u/73048023?v=4&s=64",
-        name: "USBDongleGoblin",
-    },
-    {
         url: "https://github.com/VITALISED",
         icon: "https://avatars.githubusercontent.com/u/39478251?v=4&s=64",
         name: "VITALISED",
-    },
-    {
-        url: "https://github.com/VictorPLopes",
-        icon: "https://avatars.githubusercontent.com/u/77900343?v=4&s=64",
-        name: "VictorPLopes",
     },
     {
         url: "https://github.com/WofWca",
@@ -235,6 +235,11 @@ export const community_contributors: CommunityContributor[] = [
         url: "https://github.com/cyrv6737",
         icon: "https://avatars.githubusercontent.com/u/68307100?v=4&s=64",
         name: "cyrv6737",
+    },
+    {
+        url: "https://github.com/faky1337",
+        icon: "https://avatars.githubusercontent.com/u/2706225?v=4&s=64",
+        name: "faky1337",
     },
     {
         url: "https://github.com/fvnkhead",
@@ -277,6 +282,11 @@ export const community_contributors: CommunityContributor[] = [
         name: "microraptor",
     },
     {
+        url: "https://github.com/okvdai",
+        icon: "https://avatars.githubusercontent.com/u/108829133?v=4&s=64",
+        name: "okvdai",
+    },
+    {
         url: "https://github.com/pcbmaster",
         icon: "https://avatars.githubusercontent.com/u/5921091?v=4&s=64",
         name: "pcbmaster",
@@ -297,19 +307,9 @@ export const community_contributors: CommunityContributor[] = [
         name: "rwynx",
     },
     {
-        url: "https://github.com/sneakycrow",
-        icon: "https://avatars.githubusercontent.com/u/106559028?v=4&s=64",
-        name: "sneakycrow",
-    },
-    {
         url: "https://github.com/stygia-dev",
         icon: "https://avatars.githubusercontent.com/u/116909003?v=4&s=64",
         name: "stygia-dev",
-    },
-    {
-        url: "https://github.com/sussyenby",
-        icon: "https://avatars.githubusercontent.com/u/99197472?v=4&s=64",
-        name: "sussyenby",
     },
     {
         url: "https://github.com/themoonisacheese",
